@@ -44,7 +44,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Mendes</code>, tenho 21 anos, moro em BH e estudo TI desde os 11 anos de idade. Atualmente sou <code>vendedor</code> de peças automotivas na <a href="https://instagram.com/alvoradaauto/" target="_blank">Alvorada Peças e Acessórios LTDA</a> e também nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Pedro Mendes</code>, tenho 21 anos, moro em BH e estudo TI desde os 11 anos de idade. Atualmente sou <code>vendedor</code> de peças automotivas na <a href="https://instagram.com/alvoradaauto/" target="_blank">Alvorada Peças e Acessórios LTDA</a>
 </div>
 
 -----
