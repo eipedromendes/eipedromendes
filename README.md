@@ -6,6 +6,11 @@
 
 -----
 
+</div>
+<div align="justify">
+<i><b>Olá</b> :wave:, sou o <code>Pedro Mendes</code>, tenho 21 anos, moro em BH e estudo TI desde os 11 anos de idade. Atualmente estou cursando <code>Análise e Desenvolvimento de Sistemas</code> no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>, e trabalho como <code>vendedor</code> de peças automotivas na <a href="https://instagram.com/alvoradaauto/" target="_blank">Alvorada Peças e Acessórios LTDA</a>
+</div>
+
 <div align="center">
 <table>
 <tr>
