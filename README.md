@@ -50,8 +50,6 @@ Demonstrando interesse pela área desde os 11 anos (2014), quando começou a exp
 
 -----
 
------
-
 <div>
 
 <img height="20" alt="GIF" src="https://github.com/eipedromendes/eipedromendes/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
