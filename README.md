@@ -43,7 +43,7 @@ Graduado no <code>eixo tecnológico de informação e comunicação</code> pela 
  
 Atualmente, cursa <code>Análise e Desenvolvimento de Sistemas</code> no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> (2022-2025).
 
-Iniciou sua trajetória profissional aos 14 anos, influenciado pelo pai, trabalhando na loja de peças automotivas da família (2017-2022). Em 2022, ingressou como <code>Arquivista</code> de peças automotivas na <a href="https://instagram.com/alvoradaauto/" target="_blank">Alvorada Peças e Acessórios LTDA</a> (2022-2023) e, em janeiro de 2023, foi promovido a <code>vendedor</code>, posição que ocupa até o momento.
+Iniciou sua trajetória profissional aos 14 anos, influenciado pelo pai, trabalhando na loja de peças automotivas da família (2017-2022). Em 2022, ingressou como <code>Arquivista</code> de peças automotivas na <a href="https://instagram.com/alvoradaauto/" target="_blank">Alvorada Peças e Acessórios LTDA</a> (2022-2023) e, em janeiro de 2023, foi promovido a <code>Vendedor</code>, posição que ocupa até o momento.
 
 Demonstrando interesse pela área desde os 11 anos (2014), quando começou a explorar aspectos de hardware de computadores, gradualmente expandiu seus conhecimentos para o desenvolvimento de software. Em 2018, aprendeu sua primeira linguagem de programação, C, despertando uma paixão duradoura pela prática da programação.
 </div>
