@@ -142,7 +142,8 @@ Demonstrando interesse pela área desde os 11 anos (2014), quando começou a exp
 </div>
 <div>
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=215mpfaiyul6ynl4r2zsb2qdy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=10"/>
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=215mpfaiyul6ynl4r2zsb2qdy&count=10"/>
+ 
 </div>
 <div>
 <details>
