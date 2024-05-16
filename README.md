@@ -1,7 +1,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/eipedromendes/eipedromendes/blob/main/img/header.png?raw=true"/>
 </div>
 
 -----
@@ -17,16 +17,16 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/eipedromendes/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:pedromendes.comercial@outlook.com" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
-<td><a href="mailto:pedro22henrique.silva@gmail.com" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:pedromendes.comercial@outlook.com" target="_blank"><img src="https://github.com/eipedromendes/eipedromendes/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:pedro22henrique.silva@gmail.com" target="_blank"><img src="https://github.com/eipedromendes/eipedromendes/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531999915585" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531999915585" target="_blank"><img src="https://github.com/eipedromendes/eipedromendes/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/eipedromendes/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/eipedromendes/" target="_blank"><img src="https://github.com/eipedromendes/eipedromendes/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/pedro-mendes-16814a279/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/pedro-mendes-16814a279/" target="_blank"><img src="https://github.com/eipedromendes/eipedromendes/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
