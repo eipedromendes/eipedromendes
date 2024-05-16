@@ -127,8 +127,6 @@ Demonstrando interesse pela área desde os 11 anos (2014), quando começou a exp
 
 -----
 
------
-
 <div>
 <div>
 <details>
