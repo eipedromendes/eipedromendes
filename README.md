@@ -129,7 +129,7 @@ Demonstrando interesse pela área desde os 11 anos (2014), quando começou a exp
 </tr> 
 <tr>
 <td>
-<a href="https://www.instagram.com/eipedromendes/" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter2.png?raw=true" alt="github-footer2"/></a>
+<a href="https://www.instagram.com/eipedromendes/" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/eipedromendes/eipedromendes/blob/main/img/github-header-image.png?raw=true" alt="github-header-image"/></a>
 </td>
 </table>
 </div>
