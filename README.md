@@ -36,7 +36,7 @@
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
+<img height="20" alt="GIF" src="https://github.com/eipedromendes/eipedromendes/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
 Graduado no <code>eixo tecnológico de informação e comunicação</code> pela <a href="https://vitalbrasil.com.br/" target="_blank">Escola Técnica Vital Brasil</a> (2014-2020), onde teve seu primeiro contato com diversas linguagens de programação. Neste período adquiriu experiência em banco de dados (MySQL), C, C++, C#, CSS, PHP, HTML, JavaScript e Java. 
@@ -54,37 +54,37 @@ Demonstrando interesse pela área desde os 11 anos (2014), quando começou a exp
 
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+<img height="20" alt="GIF" src="https://github.com/eipedromendes/eipedromendes/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/c.png?raw=true"/></a></code>
+<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/eipedromendes/eipedromendes/blob/main/img/c.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/cpp.svg?raw=true"/></a></code>
+<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/eipedromendes/eipedromendes/blob/main/img/cpp.svg?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/csharp.png?raw=true"/></a></code>
+<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/eipedromendes/eipedromendes/blob/main/img/csharp.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/java.png?raw=true"/></a></code>
+<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/eipedromendes/eipedromendes/blob/main/img/java.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/javafx.png?raw=true"/></a></code>
+<code><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://github.com/eipedromendes/eipedromendes/blob/main/img/javafx.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/html.svg?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/eipedromendes/eipedromendes/blob/main/img/html.svg?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/css.svg?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/eipedromendes/eipedromendes/blob/main/img/css.svg?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/js.png?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/eipedromendes/eipedromendes/blob/main/img/js.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/mysql.png?raw=true"/></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/eipedromendes/eipedromendes/blob/main/img/mysql.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dbeaver.png?raw=true"/></a></code>
+<code><a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://github.com/eipedromendes/eipedromendes/blob/main/img/dbeaver.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/nodejs.png?raw=true"/></a></code>
+<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/eipedromendes/eipedromendes/blob/main/img/nodejs.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://nextjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/nextjs.png?raw=true"/></a></code>
+<code><a href="https://nextjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/eipedromendes/eipedromendes/blob/main/img/nextjs.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://jestjs.io/pt-BR/" target="_blank"><img width="30" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/jest.png?raw=true"/></a></code>
+<code><a href="https://jestjs.io/pt-BR/" target="_blank"><img width="30" height="32" src="https://github.com/eipedromendes/eipedromendes/blob/main/img/jest.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/pc.png?raw=true"/></a></code>
+<code><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank"><img width="32" height="32" src="https://github.com/eipedromendes/eipedromendes/blob/main/img/pc.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/intellij.png?raw=true"/></a></code>
+<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/eipedromendes/eipedromendes/blob/main/img/intellij.png?raw=true"/></a></code>
 &nbsp;
 </div>
 
