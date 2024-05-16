@@ -102,7 +102,7 @@ Demonstrando interesse pela área desde os 11 anos (2014), quando começou a exp
 <div>
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Pedro's Spotify Data</summary>
+<summary><img height="20" alt="GIF" src="https://github.com/eipedromendes/eipedromendes/blob/main/img/spotify.gif?raw=true"/> Pedro's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=y5o3bubrxdxgqfcm8qp6wwt51" alt="Data Card for Spotify">
 </details>
 </div>
@@ -116,6 +116,17 @@ Demonstrando interesse pela área desde os 11 anos (2014), quando começou a exp
 <summary>:headphones: :guitar: :drum:</summary>
 </details>
 </div>
+</div>
+
+-----
+
+<div>
+<a href="https://www.linkedin.com/in/pedro-mendes-16814a279/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:pedro22henrique.silva@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/5531999915585" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://open.spotify.com/user/215mpfaiyul6ynl4r2zsb2qdy?si=45c49575a1ba4cb7" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
+<a href="https://www.instagram.com/eipedromendes/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://github.com/eipedromendes" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 -----
