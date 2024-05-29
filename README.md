@@ -50,27 +50,6 @@ Demonstrando interesse pela área desde os 11 anos (2014), quando começou a exp
 
 -----
 
------
-
-<div>
-<div>
-<img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
-</div>
-
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
-
-<div align="justify">
-<p>
-- :mortar_board: &nbsp; Na <a href="https://www.newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>estudante</code> no curso de Análise e <br />Desenvolvimento de Sistemas.<br />
-- :soccer: &nbsp; Sou cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">cabuloso</a>. 🦊:<br />
-</p>
-</div>
-</div>
-
------
-
-
-
 <div>
 
 <img height="20" alt="GIF" src="https://github.com/eipedromendes/eipedromendes/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
@@ -126,18 +105,9 @@ Demonstrando interesse pela área desde os 11 anos (2014), quando começou a exp
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
-
-<div align="justify">
-<p>
-- :mortar_board: &nbsp; Na <a href="https://www.newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>estudante</code> no curso de Análise e <br />Desenvolvimento de Sistemas.<br />
-- :soccer: &nbsp; Sou cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">cabuloso</a>. 🦊:<br />
-</p>
-</div>
 </div>
 
 -----
-
-
 
 <div>
 <div>
