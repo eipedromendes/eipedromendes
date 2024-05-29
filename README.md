@@ -101,6 +101,25 @@ Demonstrando interesse pela área desde os 11 anos (2014), quando começou a exp
 
 <div>
 <div>
+<img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
+</div>
+
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
+
+<div align="justify">
+<p>
+- :mortar_board: &nbsp; Na <a href="https://www.newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>estudante</code> no curso de Análise e <br />Desenvolvimento de Sistemas.<br />
+- :soccer: &nbsp; Sou cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">cabuloso</a>. 🦊:<br />
+</p>
+</div>
+</div>
+
+-----
+
+
+
+<div>
+<div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/eipedromendes/eipedromendes/blob/main/img/spotify.gif?raw=true"/> Pedro's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=y5o3bubrxdxgqfcm8qp6wwt51" alt="Data Card for Spotify">
