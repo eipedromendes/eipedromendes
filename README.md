@@ -99,12 +99,11 @@ Demonstrando interesse pela área desde os 11 anos (2014), quando começou a exp
 
 -----
 
-
 <div>
 <img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
 </div>
 
-
+-----
 
 <div>
 <div>
