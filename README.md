@@ -113,7 +113,7 @@ Demonstrando interesse pela área desde os 11 anos (2014), quando começou a exp
 </div>
 <div>
 <details>
-<summary>:headphones: :guitar: :drum: </summary>
+<summary>:headphones: :guitar: :drums: </summary>
 </details>
 </div>
 </div>
